@@ -1,0 +1,210 @@
+funcion,metodo,variable,valor_inicial,iteraciones,raiz,convergio,estado
+Polinómica (raíz simple),Bisección,intervalo,"[1, 2]",20,1.5213804245,True,convergió
+Polinómica (raíz simple),Falsa posición,intervalo,"[1, 2]",12,1.5213794618,True,convergió
+Polinómica (raíz simple),Bisección,intervalo,"[1.5, 1.6]",17,1.5213798523,True,convergió
+Polinómica (raíz simple),Falsa posición,intervalo,"[1.5, 1.6]",5,1.5213796928,True,convergió
+Polinómica (raíz simple),Bisección,intervalo,"[0, 3]",22,1.5213797092,True,convergió
+Polinómica (raíz simple),Falsa posición,intervalo,"[0, 3]",30,1.5213782712,True,convergió
+Polinómica (raíz simple),Bisección,intervalo,"[-2, 5]",23,1.5213798285,True,convergió
+Polinómica (raíz simple),Falsa posición,intervalo,"[-2, 5]",91,1.5213750149,True,convergió
+Polinómica (raíz simple),Bisección,intervalo,"[1, 10]",23,1.5213795900,True,convergió
+Polinómica (raíz simple),Falsa posición,intervalo,"[1, 10]",100,1.5171747111,False,alcanzó el máximo de iteraciones
+Polinómica (raíz simple),Punto fijo,x0,1,8,1.5213796042,True,convergió
+Polinómica (raíz simple),Secante,x0,1,4,1.5213797071,True,convergió
+Polinómica (raíz simple),Newton-Raphson,x0,1,5,1.5213797097,True,convergió
+Polinómica (raíz simple),Newton mejorado,x0,1,5,1.5213797067,True,convergió
+Polinómica (raíz simple),Punto fijo,x0,1.5,7,1.5213796793,True,convergió
+Polinómica (raíz simple),Secante,x0,1.5,4,1.5213796948,True,convergió
+Polinómica (raíz simple),Newton-Raphson,x0,1.5,2,1.5213798060,True,convergió
+Polinómica (raíz simple),Newton mejorado,x0,1.5,2,1.5213796095,True,convergió
+Polinómica (raíz simple),Punto fijo,x0,3,9,1.5213797410,True,convergió
+Polinómica (raíz simple),Secante,x0,3,8,1.5213797069,True,convergió
+Polinómica (raíz simple),Newton-Raphson,x0,3,5,1.5213797889,True,convergió
+Polinómica (raíz simple),Newton mejorado,x0,3,6,1.5213797054,True,convergió
+Polinómica (raíz simple),Punto fijo,x0,0.58,9,1.5213796786,True,convergió
+Polinómica (raíz simple),Secante,x0,0.58,8,1.5213797067,True,convergió
+Polinómica (raíz simple),Newton-Raphson,x0,0.58,18,1.5213797068,True,convergió
+Polinómica (raíz simple),Newton mejorado,x0,0.58,13,1.5213797068,True,convergió
+Polinómica (raíz simple),Punto fijo,x0,0,9,1.5213796570,True,convergió
+Polinómica (raíz simple),Secante,x0,0,8,1.5213797067,True,convergió
+Polinómica (raíz simple),Newton-Raphson,x0,0,30,1.5213797068,True,convergió
+Polinómica (raíz simple),Newton mejorado,x0,0,4,1.5213797068,True,convergió
+Polinómica (raíz simple),Punto fijo,x0,10,9,1.5213798382,True,convergió
+Polinómica (raíz simple),Secante,x0,10,12,1.5213797072,True,convergió
+Polinómica (raíz simple),Newton-Raphson,x0,10,9,1.5213797068,True,convergió
+Polinómica (raíz simple),Newton mejorado,x0,10,8,1.5213796698,True,convergió
+Polinómica (raíz doble),Bisección,intervalo,"[1.2, 2.8]",0,,False,no aplica: f(a)·f(b) > 0 (sin cambio de signo)
+Polinómica (raíz doble),Falsa posición,intervalo,"[1.2, 2.8]",0,,False,no aplica: f(a)·f(b) > 0 (sin cambio de signo)
+Polinómica (raíz doble),Bisección,intervalo,"[1, 3]",0,,False,no aplica: f(a)·f(b) > 0 (sin cambio de signo)
+Polinómica (raíz doble),Falsa posición,intervalo,"[1, 3]",0,,False,no aplica: f(a)·f(b) > 0 (sin cambio de signo)
+Polinómica (raíz doble),Bisección,intervalo,"[0, 5]",0,,False,no aplica: f(a)·f(b) > 0 (sin cambio de signo)
+Polinómica (raíz doble),Falsa posición,intervalo,"[0, 5]",0,,False,no aplica: f(a)·f(b) > 0 (sin cambio de signo)
+Polinómica (raíz doble),Punto fijo,x0,1.2,100,1.9630269946,False,alcanzó el máximo de iteraciones
+Polinómica (raíz doble),Secante,x0,1.2,13,1.9993539704,True,convergió
+Polinómica (raíz doble),Newton-Raphson,x0,1.2,10,1.9992187500,True,convergió
+Polinómica (raíz doble),Newton mejorado,x0,1.2,1,2.0000000000,True,convergió
+Polinómica (raíz doble),Punto fijo,x0,1.9,100,1.9716856171,False,alcanzó el máximo de iteraciones
+Polinómica (raíz doble),Secante,x0,1.9,13,1.9992792793,True,convergió
+Polinómica (raíz doble),Newton-Raphson,x0,1.9,7,1.9992187500,True,convergió
+Polinómica (raíz doble),Newton mejorado,x0,1.9,1,2.0000000000,True,convergió
+Polinómica (raíz doble),Punto fijo,x0,0,100,1.9624168805,False,alcanzó el máximo de iteraciones
+Polinómica (raíz doble),Secante,x0,0,16,1.9993582201,True,convergió
+Polinómica (raíz doble),Newton-Raphson,x0,0,11,1.9990234375,True,convergió
+Polinómica (raíz doble),Newton mejorado,x0,0,1,2.0000000000,True,convergió
+Polinómica (raíz doble),Punto fijo,x0,3,10,1646485570970.5000000000,False,divergió
+Polinómica (raíz doble),Secante,x0,3,15,2.0007886435,True,convergió
+Polinómica (raíz doble),Newton-Raphson,x0,3,10,2.0009765625,True,convergió
+Polinómica (raíz doble),Newton mejorado,x0,3,1,2.0000000000,True,convergió
+Polinómica (raíz doble),Punto fijo,x0,5,7,1968453375493346560.0000000000,False,divergió
+Polinómica (raíz doble),Secante,x0,5,17,2.0007870180,True,convergió
+Polinómica (raíz doble),Newton-Raphson,x0,5,12,2.0007324219,True,convergió
+Polinómica (raíz doble),Newton mejorado,x0,5,1,2.0000000000,True,convergió
+Polinómica (raíz doble),Punto fijo,x0,10,5,42600227803226.0000000000,False,divergió
+Polinómica (raíz doble),Secante,x0,10,19,2.0007584334,True,convergió
+Polinómica (raíz doble),Newton-Raphson,x0,10,13,2.0009765625,True,convergió
+Polinómica (raíz doble),Newton mejorado,x0,10,1,2.0000000000,True,convergió
+Logarítmica,Bisección,intervalo,"[2, 3]",19,2.9262714386,True,convergió
+Logarítmica,Falsa posición,intervalo,"[2, 3]",4,2.9262714818,True,convergió
+Logarítmica,Bisección,intervalo,"[2.9, 3]",16,2.9262710571,True,convergió
+Logarítmica,Falsa posición,intervalo,"[2.9, 3]",2,2.9262711585,True,convergió
+Logarítmica,Bisección,intervalo,"[1, 5]",21,2.9262714386,True,convergió
+Logarítmica,Falsa posición,intervalo,"[1, 5]",8,2.9262712619,True,convergió
+Logarítmica,Bisección,intervalo,"[0.5, 10]",23,2.9262711406,True,convergió
+Logarítmica,Falsa posición,intervalo,"[0.5, 10]",11,2.9262712674,True,convergió
+Logarítmica,Bisección,intervalo,"[1, 50]",22,2.9262707233,True,convergió
+Logarítmica,Falsa posición,intervalo,"[1, 50]",8,2.9262717732,True,convergió
+Logarítmica,Punto fijo,x0,2,14,2.9262707474,True,convergió
+Logarítmica,Secante,x0,2,3,2.9262706073,True,convergió
+Logarítmica,Newton-Raphson,x0,2,3,2.9262710617,True,convergió
+Logarítmica,Newton mejorado,x0,2,3,2.9262710677,True,convergió
+Logarítmica,Punto fijo,x0,3,11,2.9262705203,True,convergió
+Logarítmica,Secante,x0,3,3,2.9262710651,True,convergió
+Logarítmica,Newton-Raphson,x0,3,2,2.9262710601,True,convergió
+Logarítmica,Newton mejorado,x0,3,2,2.9262710646,True,convergió
+Logarítmica,Punto fijo,x0,0.5,15,2.9262714993,True,convergió
+Logarítmica,Secante,x0,0.5,5,2.9262710598,True,convergió
+Logarítmica,Newton-Raphson,x0,0.5,4,2.9262710602,True,convergió
+Logarítmica,Newton mejorado,x0,0.5,0,,False,falló: salió del dominio
+Logarítmica,Punto fijo,x0,0.1,15,2.9262718056,True,convergió
+Logarítmica,Secante,x0,0.1,6,2.9262710624,True,convergió
+Logarítmica,Newton-Raphson,x0,0.1,5,2.9262710623,True,convergió
+Logarítmica,Newton mejorado,x0,0.1,0,,False,falló: salió del dominio
+Logarítmica,Punto fijo,x0,10,15,2.9262706197,True,convergió
+Logarítmica,Secante,x0,10,5,2.9262710630,True,convergió
+Logarítmica,Newton-Raphson,x0,10,4,2.9262710624,True,convergió
+Logarítmica,Newton mejorado,x0,10,3,2.9262710624,True,convergió
+Logarítmica,Punto fijo,x0,30,16,2.9262714608,True,convergió
+Logarítmica,Secante,x0,30,6,2.9262710625,True,convergió
+Logarítmica,Newton-Raphson,x0,30,4,2.9262710100,True,convergió
+Logarítmica,Newton mejorado,x0,30,4,2.9262710625,True,convergió
+Exponencial,Bisección,intervalo,"[0, 1]",20,0.5671434402,True,convergió
+Exponencial,Falsa posición,intervalo,"[0, 1]",7,0.5671433760,True,convergió
+Exponencial,Bisección,intervalo,"[0.5, 0.6]",16,0.5671432495,True,convergió
+Exponencial,Falsa posición,intervalo,"[0.5, 0.6]",3,0.5671433509,True,convergió
+Exponencial,Bisección,intervalo,"[-2, 3]",20,0.5671434402,True,convergió
+Exponencial,Falsa posición,intervalo,"[-2, 3]",26,0.5671442286,True,convergió
+Exponencial,Bisección,intervalo,"[-5, 10]",21,0.5671429634,True,convergió
+Exponencial,Falsa posición,intervalo,"[-5, 10]",100,0.5856840918,False,alcanzó el máximo de iteraciones
+Exponencial,Bisección,intervalo,"[-10, 20]",24,0.5671435595,True,convergió
+Exponencial,Falsa posición,intervalo,"[-10, 20]",100,17.5545386551,False,alcanzó el máximo de iteraciones
+Exponencial,Punto fijo,x0,0,25,0.5671437481,True,convergió
+Exponencial,Secante,x0,0,3,0.5671431643,True,convergió
+Exponencial,Newton-Raphson,x0,0,3,0.5671431650,True,convergió
+Exponencial,Newton mejorado,x0,0,3,0.5671437679,True,convergió
+Exponencial,Punto fijo,x0,1,24,0.5671437481,True,convergió
+Exponencial,Secante,x0,1,4,0.5671431568,True,convergió
+Exponencial,Newton-Raphson,x0,1,3,0.5671432860,True,convergió
+Exponencial,Newton mejorado,x0,1,3,0.5671432917,True,convergió
+Exponencial,Punto fijo,x0,-2,27,0.5671437475,True,convergió
+Exponencial,Secante,x0,-2,7,0.5671432903,True,convergió
+Exponencial,Newton-Raphson,x0,-2,5,0.5671432585,True,convergió
+Exponencial,Newton mejorado,x0,-2,5,0.5671437679,True,convergió
+Exponencial,Punto fijo,x0,3,26,0.5671437039,True,convergió
+Exponencial,Secante,x0,3,5,0.5671438931,True,convergió
+Exponencial,Newton-Raphson,x0,3,4,0.5671432864,True,convergió
+Exponencial,Newton mejorado,x0,3,3,0.5671433219,True,convergió
+Exponencial,Punto fijo,x0,5,26,0.5671437421,True,convergió
+Exponencial,Secante,x0,5,6,0.5671432916,True,convergió
+Exponencial,Newton-Raphson,x0,5,4,0.5671432233,True,convergió
+Exponencial,Newton mejorado,x0,5,4,0.5671432984,True,convergió
+Exponencial,Punto fijo,x0,10,26,0.5671437481,True,convergió
+Exponencial,Secante,x0,10,6,0.5671432960,True,convergió
+Exponencial,Newton-Raphson,x0,10,4,0.5671431660,True,convergió
+Exponencial,Newton mejorado,x0,10,4,0.5671437286,True,convergió
+Trigonométrica,Bisección,intervalo,"[0, 1]",20,0.7390851974,True,convergió
+Trigonométrica,Falsa posición,intervalo,"[0, 1]",5,0.7390847824,True,convergió
+Trigonométrica,Bisección,intervalo,"[0.7, 0.8]",16,0.7390853882,True,convergió
+Trigonométrica,Falsa posición,intervalo,"[0.7, 0.8]",3,0.7390850450,True,convergió
+Trigonométrica,Bisección,intervalo,"[-2, 3]",22,0.7390849590,True,convergió
+Trigonométrica,Falsa posición,intervalo,"[-2, 3]",7,0.7390847430,True,convergió
+Trigonométrica,Bisección,intervalo,"[-5, 10]",23,0.7390850782,True,convergió
+Trigonométrica,Falsa posición,intervalo,"[-5, 10]",6,0.7390849638,True,convergió
+Trigonométrica,Bisección,intervalo,"[-20, 20]",24,0.7390856743,True,convergió
+Trigonométrica,Falsa posición,intervalo,"[-20, 20]",6,0.7390846321,True,convergió
+Trigonométrica,Punto fijo,x0,0,34,0.7390845496,True,convergió
+Trigonométrica,Secante,x0,0,4,0.7390851751,True,convergió
+Trigonométrica,Newton-Raphson,x0,0,4,0.7390851334,True,convergió
+Trigonométrica,Newton mejorado,x0,0,4,0.7390851322,True,convergió
+Trigonométrica,Punto fijo,x0,1,33,0.7390845496,True,convergió
+Trigonométrica,Secante,x0,1,4,0.7390851407,True,convergió
+Trigonométrica,Newton-Raphson,x0,1,3,0.7390851334,True,convergió
+Trigonométrica,Newton mejorado,x0,1,3,0.7390851332,True,convergió
+Trigonométrica,Punto fijo,x0,-2,34,0.7390857185,True,convergió
+Trigonométrica,Secante,x0,-2,7,0.7390851232,True,convergió
+Trigonométrica,Newton-Raphson,x0,-2,6,0.7390851332,True,convergió
+Trigonométrica,Newton mejorado,x0,-2,12,0.7390851332,True,convergió
+Trigonométrica,Punto fijo,x0,3,34,0.7390845713,True,convergió
+Trigonométrica,Secante,x0,3,7,0.7390851193,True,convergió
+Trigonométrica,Newton-Raphson,x0,3,5,0.7390852044,True,convergió
+Trigonométrica,Newton mejorado,x0,3,5,0.7390851330,True,convergió
+Trigonométrica,Punto fijo,x0,5,35,0.7390846373,True,convergió
+Trigonométrica,Secante,x0,5,6,0.7390851401,True,convergió
+Trigonométrica,Newton-Raphson,x0,5,20,0.7390851447,True,convergió
+Trigonométrica,Newton mejorado,x0,5,15,0.7390851311,True,convergió
+Trigonométrica,Punto fijo,x0,10,32,0.7390846420,True,convergió
+Trigonométrica,Secante,x0,10,7,0.7390850434,True,convergió
+Trigonométrica,Newton-Raphson,x0,10,92,0.7390851332,True,convergió
+Trigonométrica,Newton mejorado,x0,10,21,0.7390851332,True,convergió
+Mixta,Bisección,intervalo,"[0.1, 1]",20,0.6417143822,True,convergió
+Mixta,Falsa posición,intervalo,"[0.1, 1]",4,0.6417138392,True,convergió
+Mixta,Bisección,intervalo,"[0.6, 0.7]",15,0.6417144775,True,convergió
+Mixta,Falsa posición,intervalo,"[0.6, 0.7]",3,0.6417143525,True,convergió
+Mixta,Bisección,intervalo,"[0.01, 3]",21,0.6417139769,True,convergió
+Mixta,Falsa posición,intervalo,"[0.01, 3]",7,0.6417150592,True,convergió
+Mixta,Bisección,intervalo,"[0.001, 5]",21,0.6417147460,True,convergió
+Mixta,Falsa posición,intervalo,"[0.001, 5]",9,0.6417147421,True,convergió
+Mixta,Punto fijo,x0,0.5,13,0.6417136881,True,convergió
+Mixta,Secante,x0,0.5,3,0.6417146220,True,convergió
+Mixta,Newton-Raphson,x0,0.5,2,0.6417148668,True,convergió
+Mixta,Newton mejorado,x0,0.5,2,0.6417142563,True,convergió
+Mixta,Punto fijo,x0,0.1,15,0.6417139862,True,convergió
+Mixta,Secante,x0,0.1,3,0.6417143697,True,convergió
+Mixta,Newton-Raphson,x0,0.1,3,0.6417148277,True,convergió
+Mixta,Newton mejorado,x0,0.1,0,,False,falló: salió del dominio
+Mixta,Punto fijo,x0,1,14,0.6417149378,True,convergió
+Mixta,Secante,x0,1,4,0.6417143736,True,convergió
+Mixta,Newton-Raphson,x0,1,3,0.6417143710,True,convergió
+Mixta,Newton mejorado,x0,1,3,0.6417143708,True,convergió
+Mixta,Punto fijo,x0,0.01,15,0.6417140270,True,convergió
+Mixta,Secante,x0,0.01,4,0.6417143708,True,convergió
+Mixta,Newton-Raphson,x0,0.01,4,0.6417143776,True,convergió
+Mixta,Newton mejorado,x0,0.01,0,,False,falló: salió del dominio
+Mixta,Punto fijo,x0,2,15,0.6417150523,True,convergió
+Mixta,Secante,x0,2,5,0.6417143708,True,convergió
+Mixta,Newton-Raphson,x0,2,3,0.6417144835,True,convergió
+Mixta,Newton mejorado,x0,2,4,0.6417143708,True,convergió
+Mixta,Punto fijo,x0,5,18,0.6417147967,True,convergió
+Mixta,Secante,x0,5,2,2.5604017114,False,falló: salió del dominio
+Mixta,Newton-Raphson,x0,5,100,5.0219438676,False,alcanzó el máximo de iteraciones
+Mixta,Newton mejorado,x0,5,55,30.0056508759,False,falló: salió del dominio
+Mixta,Punto fijo,x0,10,22,0.6417147739,True,convergió
+Mixta,Secante,x0,10,1,17.0090428567,False,falló: salió del dominio
+Mixta,Newton-Raphson,x0,10,4,21.9661922930,False,falló: salió del dominio
+Mixta,Newton mejorado,x0,10,100,229.6067925628,False,alcanzó el máximo de iteraciones
+Mixta,Punto fijo,despeje g(x) = cos²(x),0.5,100,0.6399108035,False,alcanzó el máximo de iteraciones
+Mixta,Punto fijo,despeje g(x) = cos²(x),0.1,100,0.6386615928,False,alcanzó el máximo de iteraciones
+Mixta,Punto fijo,despeje g(x) = cos²(x),1,100,0.6446607790,False,alcanzó el máximo de iteraciones
+Mixta,Punto fijo,despeje g(x) = cos²(x),0.01,100,0.6386393765,False,alcanzó el máximo de iteraciones
+Mixta,Punto fijo,despeje g(x) = cos²(x),2,100,0.6448431615,False,alcanzó el máximo de iteraciones
+Mixta,Punto fijo,despeje g(x) = cos²(x),5,100,0.6449031274,False,alcanzó el máximo de iteraciones
+Mixta,Punto fijo,despeje g(x) = cos²(x),10,100,0.6407527378,False,alcanzó el máximo de iteraciones

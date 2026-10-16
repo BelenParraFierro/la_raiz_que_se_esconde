@@ -1,0 +1,37 @@
+funcion,metodo,iteraciones,raiz,error_absoluto,f(raiz),orden_estimado,convergio,estado
+Polinómica (raíz simple),Bisección,20,1.5213804245,7.177e-07,4.266e-06,0.963,True,convergió
+Polinómica (raíz simple),Falsa posición,12,1.5213794618,2.450e-07,-1.456e-06,1.004,True,convergió
+Polinómica (raíz simple),Punto fijo,8,1.5213796042,1.026e-07,-6.096e-07,1.000,True,convergió
+Polinómica (raíz simple),Secante,6,1.5213797080,1.180e-09,7.015e-09,1.625,True,convergió
+Polinómica (raíz simple),Newton-Raphson,5,1.5213797097,2.929e-09,1.741e-08,1.962,True,convergió
+Polinómica (raíz simple),Newton mejorado,5,1.5213797067,7.046e-11,-4.188e-10,2.012,True,convergió
+Polinómica (raíz doble),Bisección,0,,,,,False,no aplica: f(a)·f(b) > 0 (sin cambio de signo)
+Polinómica (raíz doble),Falsa posición,0,,,,,False,no aplica: f(a)·f(b) > 0 (sin cambio de signo)
+Polinómica (raíz doble),Punto fijo,100,1.9630269946,3.697e-02,1.367e-03,0.961,False,alcanzó el máximo de iteraciones
+Polinómica (raíz doble),Secante,14,1.9993279194,6.721e-04,4.517e-07,1.001,True,convergió
+Polinómica (raíz doble),Newton-Raphson,10,1.9992187500,7.812e-04,6.104e-07,1.000,True,convergió
+Polinómica (raíz doble),Newton mejorado,1,2.0000000000,0.000e+00,0.000e+00,,True,convergió
+Logarítmica,Bisección,19,2.9262714386,3.762e-07,5.047e-07,0.859,True,convergió
+Logarítmica,Falsa posición,4,2.9262714818,4.194e-07,5.627e-07,1.000,True,convergió
+Logarítmica,Punto fijo,14,2.9262707474,3.151e-07,-4.228e-07,0.999,True,convergió
+Logarítmica,Secante,3,2.9262710642,1.749e-09,2.347e-09,1.524,True,convergió
+Logarítmica,Newton-Raphson,3,2.9262710617,7.877e-10,-1.057e-09,2.003,True,convergió
+Logarítmica,Newton mejorado,3,2.9262710677,5.290e-09,7.098e-09,1.987,True,convergió
+Exponencial,Bisección,20,0.5671434402,1.498e-07,-2.348e-07,0.960,True,convergió
+Exponencial,Falsa posición,7,0.5671433760,8.562e-08,-1.342e-07,1.000,True,convergió
+Exponencial,Punto fijo,25,0.5671437481,4.577e-07,-7.173e-07,0.997,True,convergió
+Exponencial,Secante,4,0.5671433066,1.620e-08,-2.538e-08,1.633,True,convergió
+Exponencial,Newton-Raphson,3,0.5671431650,1.254e-07,1.965e-07,2.005,True,convergió
+Exponencial,Newton mejorado,3,0.5671437679,4.775e-07,-7.483e-07,1.977,True,convergió
+Trigonométrica,Bisección,20,0.7390851974,6.423e-08,-1.075e-07,0.984,True,convergió
+Trigonométrica,Falsa posición,5,0.7390847824,3.508e-07,5.870e-07,1.003,True,convergió
+Trigonométrica,Punto fijo,34,0.7390845496,5.836e-07,9.768e-07,1.000,True,convergió
+Trigonométrica,Secante,4,0.7390851121,2.109e-08,3.529e-08,1.607,True,convergió
+Trigonométrica,Newton-Raphson,4,0.7390851334,1.701e-10,-2.847e-10,1.973,True,convergió
+Trigonométrica,Newton mejorado,4,0.7390851322,1.050e-09,1.757e-09,2.034,True,convergió
+Mixta,Bisección,20,0.6417143822,1.130e-08,1.382e-08,1.030,True,convergió
+Mixta,Falsa posición,4,0.6417138392,5.317e-07,-6.501e-07,1.000,True,convergió
+Mixta,Punto fijo,13,0.6417136881,6.827e-07,-8.348e-07,1.001,True,convergió
+Mixta,Secante,3,0.6417146220,2.511e-07,3.070e-07,2.321,True,convergió
+Mixta,Newton-Raphson,2,0.6417148668,4.959e-07,6.064e-07,,True,convergió
+Mixta,Newton mejorado,2,0.6417142563,1.146e-07,-1.402e-07,,True,convergió

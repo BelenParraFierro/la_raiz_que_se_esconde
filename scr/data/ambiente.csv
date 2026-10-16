@@ -1,0 +1,7 @@
+funcion,expresion,a,b,f(a),f(b),f(a)*f(b),x0,x1,g(x) punto fijo,tolerancia,max_iter,raiz_referencia,demostracion,raiz_en_rango
+Polinómica (raíz simple),f(x) = x³ − x − 2,1.0,2.0,-2.0,4.0,-8.0,1.0,2.0,g(x) = ∛(x + 2),1e-06,100,1.521379706805,Bolzano: f(a)·f(b) = -8.000000 < 0,True
+Polinómica (raíz doble),f(x) = (x − 2)²,1.2,2.8,0.64,0.64,0.4096,1.2,1.4,g(x) = (x² + 4) / 4,1e-06,100,2.000000000000,"Tangencia: f(2) = 0, f'(2) = 0, min f(x) en el rango = 1.41331e-05 >= 0 (no cruza el eje)",True
+Logarítmica,f(x) = ln(x) + x − 4,2.0,3.0,-1.30685282,0.09861229,-0.12887175,2.0,3.0,g(x) = 4 − ln(x),1e-06,100,2.926271062444,Bolzano: f(a)·f(b) = -0.128872 < 0,True
+Exponencial,f(x) = e^(−x) − x,0.0,1.0,1.0,-0.63212056,-0.63212056,0.0,1.0,g(x) = e^(−x),1e-06,100,0.567143290410,Bolzano: f(a)·f(b) = -0.632121 < 0,True
+Trigonométrica,f(x) = cos(x) − x,0.0,1.0,1.0,-0.45969769,-0.45969769,0.0,1.0,g(x) = cos(x),1e-06,100,0.739085133215,Bolzano: f(a)·f(b) = -0.459698 < 0,True
+Mixta,f(x) = √x − cos(x),0.1,1.0,-0.6787764,0.45969769,-0.31203195,0.5,1.0,"g(x) = x − 0,5·(√x − cos x)",1e-06,100,0.641714370873,Bolzano: f(a)·f(b) = -0.312032 < 0,True
